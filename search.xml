@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Weekly_article01</title>
+    <url>/2020/01/05/Weekly_article01/</url>
+    <content><![CDATA[<h1 id="周记Y2020W1"><a href="#周记Y2020W1" class="headerlink" title="周记Y2020W1"></a>周记Y2020W1</h1><hr>
+<p>title: 周记Y2020W1<br>tags: </p>
+<ul>
+<li>201生活-周记<br>categories:</li>
+<li>时间笔触</li>
+</ul>
+<hr>
+<p>（2019.12.30-2020.1.5）</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/01/05/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
