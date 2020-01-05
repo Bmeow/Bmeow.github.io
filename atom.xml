@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-05T10:28:54.026Z</updated>
+  <updated>2020-01-05T10:45:55.217Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,22 +21,20 @@
     <link href="http://yoursite.com/2020/01/05/Y2020W1/"/>
     <id>http://yoursite.com/2020/01/05/Y2020W1/</id>
     <published>2020-01-05T09:58:30.000Z</published>
-    <updated>2020-01-05T10:28:54.026Z</updated>
+    <updated>2020-01-05T10:45:55.217Z</updated>
     
-    <content type="html"><![CDATA[<p>##本周小记</p><ol><li>本周OKR已全部完成</li><li>时间笔下的记录者</li></ol><p>##思考：人，最难面对自己</p><p>荀子推崇性恶论，认为人生来本恶。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="本周小记"><a href="#本周小记" class="headerlink" title="本周小记"></a>本周小记</h2><ol><li>本周OKR已全部完成</li><li>时间笔下的记录者</li><li></li></ol><h2 id="开心"><a href="#开心" class="headerlink" title="开心"></a>开心</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;##本周小记&lt;/p&gt;
-&lt;ol&gt;
+        &lt;h2 id=&quot;本周小记&quot;&gt;&lt;a href=&quot;#本周小记&quot; class=&quot;headerlink&quot; title=&quot;本周小记&quot;&gt;&lt;/a&gt;本周小记&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;本周OKR已全部完成&lt;/li&gt;
 &lt;li&gt;时间笔下的记录者&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;##思考：人，最难面对自己&lt;/p&gt;
-&lt;p&gt;荀子推崇性恶论，认为人生来本恶。&lt;/p&gt;
-
+&lt;h2 id
       
     
     </summary>
