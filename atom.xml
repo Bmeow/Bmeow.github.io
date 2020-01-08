@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-06T13:41:07.313Z</updated>
+  <updated>2020-01-08T13:20:22.968Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搜索教程01</title>
+    <link href="http://yoursite.com/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/"/>
+    <id>http://yoursite.com/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/</id>
+    <published>2020-01-08T13:19:33.000Z</published>
+    <updated>2020-01-08T13:20:22.968Z</updated>
+    
+    <content type="html"><![CDATA[<p>##搜索案例<br>###搜索一本书<br>想要搜索</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;##搜索案例&lt;br&gt;###搜索一本书&lt;br&gt;想要搜索&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-100搜索教程" scheme="http://yoursite.com/tags/100%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Y2020W1</title>

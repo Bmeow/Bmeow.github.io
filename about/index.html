@@ -311,7 +311,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">1</span>
+          <span class="site-state-item-count">2</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -324,7 +324,7 @@
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-count">2</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -534,8 +534,8 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     });
     new Valine({
       el: '#valine-comments',
-      verify: false,
-      notify: false,
+      verify: true,
+      notify: true,
       appId: '90l6AIAOcYiTjUYHXJXAFFoH-gzGzoHsz',
       appKey: 'Or6hQVP8vY7WNdPv6ltlq5RT',
       placeholder: "Just go go",
