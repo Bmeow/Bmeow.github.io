@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-08T13:20:22.968Z</updated>
+  <updated>2020-01-08T20:25:15.825Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://yoursite.com/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/"/>
     <id>http://yoursite.com/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/</id>
     <published>2020-01-08T13:19:33.000Z</published>
-    <updated>2020-01-08T13:20:22.968Z</updated>
+    <updated>2020-01-08T20:25:15.825Z</updated>
     
-    <content type="html"><![CDATA[<p>##搜索案例<br>###搜索一本书<br>想要搜索</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="搜索案例"><a href="#搜索案例" class="headerlink" title="搜索案例"></a>搜索案例</h2><h3 id="搜索一本书"><a href="#搜索一本书" class="headerlink" title="搜索一本书"></a>搜索一本书</h3><p>想要搜索《奇特的一生》，应该如何搜？<br>方法如下：<img src="images/search01.gif" alt="search01"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;##搜索案例&lt;br&gt;###搜索一本书&lt;br&gt;想要搜索&lt;/p&gt;
-
+        &lt;h2 id=&quot;搜索案例&quot;&gt;&lt;a href=&quot;#搜索案例&quot; class=&quot;headerlink&quot; title=&quot;搜索案例&quot;&gt;&lt;/a&gt;搜索案例&lt;/h2&gt;&lt;h3 id=&quot;搜索一本书&quot;&gt;&lt;a href=&quot;#搜索一本书&quot; class=&quot;headerlink&quot; title=&quot;搜索一本书&quot;&gt;
       
     
     </summary>
