@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-08T20:25:15.825Z</updated>
+  <updated>2020-01-08T20:29:58.926Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>搜索教程01</title>
+    <title>搜索教程01：文件类型</title>
     <link href="http://yoursite.com/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/"/>
     <id>http://yoursite.com/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/</id>
     <published>2020-01-08T13:19:33.000Z</published>
-    <updated>2020-01-08T20:25:15.825Z</updated>
+    <updated>2020-01-08T20:29:58.926Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="搜索案例"><a href="#搜索案例" class="headerlink" title="搜索案例"></a>搜索案例</h2><h3 id="搜索一本书"><a href="#搜索一本书" class="headerlink" title="搜索一本书"></a>搜索一本书</h3><p>想要搜索《奇特的一生》，应该如何搜？<br>方法如下：<img src="images/search01.gif" alt="search01"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="搜索案例"><a href="#搜索案例" class="headerlink" title="搜索案例"></a>搜索案例</h2><h3 id="搜索一本书"><a href="#搜索一本书" class="headerlink" title="搜索一本书"></a>搜索一本书</h3><p>想要搜索《奇特的一生》，应该如何搜？<br><strong>常规方法如下：</strong><br><img src="images/search01.gif" alt="search01"><br><code>书名 pdf</code>或<code>书名 filetype:pdf</code></p><p><strong>非常规方法如下：</strong></p><ol><li>使用百度搜索的</li></ol>]]></content>
     
     <summary type="html">
     
