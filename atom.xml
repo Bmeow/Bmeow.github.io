@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-09T04:36:37.004Z</updated>
+  <updated>2020-01-09T04:39:02.656Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>搜索教程00</title>
+    <title>搜索教程00——</title>
     <link href="http://yoursite.com/2020/01/09/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B00/"/>
     <id>http://yoursite.com/2020/01/09/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B00/</id>
     <published>2020-01-08T22:23:04.000Z</published>
-    <updated>2020-01-09T04:36:37.004Z</updated>
+    <updated>2020-01-09T04:39:02.656Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="搜索案例"><a href="#搜索案例" class="headerlink" title="搜索案例"></a>搜索案例</h2><h3 id="搜索一本书"><a href="#搜索一本书" class="headerlink" title="搜索一本书"></a>搜索一本书</h3><p>想要搜索《奇特的一生》，应该如何搜？<br><strong>常规方法如下：</strong><br><img src="images/search01-2.gif" alt="search01"></p><p><code>书名 pdf</code>或<code>书名 filetype:pdf</code></p><p><img src="https://i.loli.net/2020/01/09/smMpIA65oyQl7JF.jpg" alt="-w162"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="搜索案例"><a href="#搜索案例" class="headerlink" title="搜索案例"></a>搜索案例</h2><h3 id="搜索一本书"><a href="#搜索一本书" class="headerlink" title="搜索一本书"></a>搜索一本书</h3><p>想要搜索《奇特的一生》，应该如何搜？<br><strong>常规方法如下：</strong><br><img src="images/search01-2.gif" alt="search01"></p><p><code>书名 pdf</code>或<code>书名 filetype:pdf</code></p>]]></content>
     
     <summary type="html">
     
@@ -58,9 +58,9 @@
     <link href="http://yoursite.com/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/"/>
     <id>http://yoursite.com/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/</id>
     <published>2020-01-08T13:19:33.000Z</published>
-    <updated>2020-01-08T22:19:43.790Z</updated>
+    <updated>2020-01-09T13:33:32.148Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="搜索案例"><a href="#搜索案例" class="headerlink" title="搜索案例"></a>搜索案例</h2><h3 id="搜索一本书"><a href="#搜索一本书" class="headerlink" title="搜索一本书"></a>搜索一本书</h3><p>想要搜索《奇特的一生》，应该如何搜？<br><strong>常规方法如下：</strong><br><img src="/2020/01/08/%E6%90%9C%E7%B4%A2%E6%95%99%E7%A8%8B01/search01.gif" alt="search01"><br><code>书名 pdf</code>或<code>书名 filetype:pdf</code></p><p><strong>非常规方法如下：</strong></p><ol><li>使用百度搜索的</li></ol>]]></content>
+    <content type="html"><![CDATA[<h2 id="搜索案例"><a href="#搜索案例" class="headerlink" title="搜索案例"></a>搜索案例</h2><h3 id="搜索一本书"><a href="#搜索一本书" class="headerlink" title="搜索一本书"></a>搜索一本书</h3><p>想要搜索《奇特的一生》，应该如何搜？<br><strong>常规方法如下：</strong><br><img src="images/search01-3.gif" alt="search01"></p><p><code>书名 pdf</code>或<code>书名 filetype:pdf</code></p><p><strong>非常规方法如下：</strong></p><ol><li>使用百度搜索的高级设置</li><li></li></ol>]]></content>
     
     <summary type="html">
     
